@@ -1,0 +1,14 @@
+Improve the login system - How password is being checked out of million records in the database
+During login password is passed as normal text - need to pass this as encrypted text
+Add a global exception layer to write the custom messages in the response during exception or API failure.
+Implement the SearchApi code to process the keywords
+Make the zone (Asia/Kolkata) dynamic, that is based on the user's local timezone
+Remove all the hardcoded values
+
+Learn
+- Java Streams API
+- Option<>
+- Java Generics
+- Spring AOP
+- SQL Commands
+    - COALESCE
